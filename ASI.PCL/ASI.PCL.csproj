@@ -10,7 +10,7 @@
     <AssemblyName>ASI.PCL</AssemblyName>
     <OutputType>Library</OutputType>
     <OutputPath>bin/DEBUG/</OutputPath>
-    <ProjectGuid>{1da5d8b1-eeea-460f-87b1-55ad91901553}</ProjectGuid>
+    <ProjectGuid>{ef46755e-0b24-493d-bada-27643e59dc3d}</ProjectGuid>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
     <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
     <NuGetPackageImportStamp>ee2bb91c</NuGetPackageImportStamp>
